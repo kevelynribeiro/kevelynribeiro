@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Kevelyn Ribeiro👋
 
 - 💻 Iniciando minha carreira na área de TI.
-- 📚 Estudando Desenvolvimento Web.
-- 🖥 Interessada em Front-End.
+- 📚 Estudando Desenvolvimento front-end
+- 🖥 Meus hobbies são tudo que envolve arte e cultura.
 
 <div align="center">
   <a href="https://github.com/kevelynribeiro">
